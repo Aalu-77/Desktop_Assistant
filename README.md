@@ -34,7 +34,7 @@ ULTRON is a local AI-powered desktop assistant inspired by JARVIS. It combines v
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/ULTRON.git
+   git clone https://github.com/Aalu-77/Desktop_Assistant.git
    cd ULTRON
    ```
 
